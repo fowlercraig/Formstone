@@ -1,34 +1,12 @@
 {
-  "name": "formstone",
-  "version": "0.6.4",
-  "description": "Library of modular front end components.",
-  "author": {
-    "name": "Ben Plum",
-    "email": "mr@benplum.com",
-    "url": "http://www.benplum.com"
-  },
-  "license": "MIT",
-  "homepage": "http://formstone.it/",
-  "dependencies": {
-    "jquery": ">=1.11.1",
-    "normalize-css": "~3.0.2",
-    "modernizr": "~2.8.3",
-    "respond": ">=1.4.2",
-    "magnific-popup": ">=1.0.0",
-    "pie-htc": ">=2.0.0beta2-SNAPSHOT",
-  },
-  "devDependencies": {
-    "normalize-css": "~3.0.2",
-    "html5shiv": "~3.7.2",
-    "prism": "gh-pages",
-    "modernizr": "~2.8.3"
-  },
-  "main": [
-    "dist/**/*"
+  "name": "Roost Theme Init",
+  "version": "1",
+  "homepage": "https://github.com/fowlercraig/Formstone",
+  "authors": [
+    "Craig Fowler <craig@wearegiants.com>"
   ],
-  "ignore": [
-    "demo/",
-    "docs/",
-    "site/"
-  ]
+  "description": "Roost Theme Init",
+  "main": "dist/css/grid.css",
+  "license": "MIT",
+  "private": true
 }
